@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+**/catplot.png
+**/heatmap.png
+**/line_plot.png
+**/bar_plot.png
+**/box_plot.png
+**/sea_level_plot.png
